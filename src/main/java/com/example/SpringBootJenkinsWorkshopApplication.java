@@ -14,7 +14,7 @@ public class SpringBootJenkinsWorkshopApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "New A My Hello World! "
+		return "New B My Hello World! "
 	}
 
 	public static void main(String[] args) {
