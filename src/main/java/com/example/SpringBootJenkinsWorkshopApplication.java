@@ -14,8 +14,8 @@ public class SpringBootJenkinsWorkshopApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "New C My Hello World! ";
-
+		return "Hello World!";
+	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJenkinsWorkshopApplication.class, args);
