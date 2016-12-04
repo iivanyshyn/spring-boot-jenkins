@@ -14,7 +14,7 @@ public class SpringBootJenkinsWorkshopApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "New B My Hello World + Webhook! ";
+		return "New C My Hello World! ";
 
 
 	public static void main(String[] args) {
